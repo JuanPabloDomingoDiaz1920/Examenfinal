@@ -1,0 +1,11 @@
+body {
+    margin-top: 50px;
+    background-color: antiquewhite;
+}
+.Direcciones {
+    text-align: center;
+    text-decoration: aquamarine;
+    margin-bottom: 20px;
+    transition: 50ms;
+    cursor: context-menu;
+}

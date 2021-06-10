@@ -1,0 +1,8 @@
+body {
+    margin-top: 75px;
+    margin-bottom: 50px;
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+    text-align: justify;
+    justify-content: flex-end;
+}

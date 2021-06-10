@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(211, 119, 13);
+    transform: 800ms;
+}
+.empresa {
+transition: 500ms;
+margin-top: 80px;
+margin-bottom: 55px;
+text-align: center;
+
+}
